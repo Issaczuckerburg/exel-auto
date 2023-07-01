@@ -1,0 +1,103 @@
+21,kotowali,chattagram
+28/A, Mirpur Road, Dhanmondi, Dhaka
+15, Station Road, Chittagong Railway Station, Chittagong
+72, Shaheed Minar Road, Sadarghat, Barisal
+10, Main Road, Khulshi Residential Area, Chattogram
+45, Motijheel Avenue, Motijheel, Dhaka
+19, GEC Circle, CDA Avenue, Chittagong
+87, Mirboxtola Road, Mohakhali, Dhaka
+32, Gopibagh Road, Lalbagh, Dhaka
+56, Station Road, Bogra Sadar, Bogra
+8, Zindabazar Road, Zindabazar, Sylhet
+15, Court Road, Jessore Sadar, Jessore
+73, Boro Bazar Road, Cox's Bazar, Cox's Bazar
+21, Court Road, Barisal Sadar, Barisal
+5, DC Road, Khulna Sadar, Khulna
+34, Jubilee Road, Chittagong University, Chittagong
+42, RAB Road, Uttara, Dhaka
+27, Sholoshahar Road, Sholoshahar, Chittagong
+9, Shaheed Zia Road, Narayanganj Sadar, Narayanganj
+63, Main Road, Comilla Sadar, Comilla
+16, Purana Paltan Line, Paltan, Dhaka
+52, Al-Razi Road, Wari, Dhaka
+31, Station Road, Rajshahi University, Rajshahi
+88, KDA Avenue, Khulna University, Khulna
+12, Sadarghat Road, Rangpur Sadar, Rangpur
+48, Shaheed Minar Road, Sylhet Sadar, Sylhet
+23, New Market Road, Baitul Mukarram, Dhaka
+37, Uttara Sector 4 Road, Uttara, Dhaka
+64, Jubilee Road, Chawkbazar, Chittagong
+18, Gulshan Avenue, Gulshan, Dhaka
+30, Elephant Road, Hatirpool, Dhaka
+57, Noyatola Road, Hathazari, Chittagong
+3, Circuit House Road, Rajshahi Sadar, Rajshahi
+ 81, Mymensingh Road, Tangail Sadar, Tangail
+ 20, DIT Road, Malibagh, Dhaka
+ 38, Station Road, Moulvibazar Sadar, Moulvibazar
+ 11, Banani Road, Banani, Dhaka
+ 46, Court Road, Sherpur Sadar, Sherpur
+ 14, Laldighi East Road, Lalbagh, Chittagong
+67, Dhanmondi 27th Road, Dhanmondi, Dhaka
+25, Batali Road, Batali, Narayanganj
+ 50, Shahbagh Road, Shahbagh, Dhaka
+12, GPO Road, New Market, Chattogram
+27, Tigerpass Lane, Tigerpass, Chattogram
+56, Lalkhan Bazar Road, Lalkhan Bazar, Chattogram
+8, GEC Circle, GEC, Chattogram
+34, 2no Gate Road, 2no Gate, Chattogram
+19, Nasirabad Road, Nasirabad, Chattogram
+42, Bayezid Bostami Road, Bayezid Bostami, Chattogram
+10, Oxygen Road, Oxygen, Chattogram
+23, AK Khan Lane, AK Khan, Chattogram
+37, Citygate Avenue, Citygate, Chattogram
+15, Jubilee Road, New Market, Chattogram
+31, Station Road, Tigerpass, Chattogram
+48, Lalkhan Bazar Road, Lalkhan Bazar, Chattogram
+6, GEC Circle, GEC, Chattogram
+22, 2no Gate Road, 2no Gate, Chattogram
+39, Nasirabad Road, Nasirabad, Chattogram
+53, Bayezid Bostami Road, Bayezid Bostami, Chattogram
+12, Oxygen Road, Oxygen, Chattogram
+29, AK Khan Lane, AK Khan, Chattogram
+44, Citygate Avenue, Citygate, Chattogram
+18, Jubilee Road, New Market, Chattogram
+33, Station Road, Tigerpass, Chattogram
+51, Lalkhan Bazar Road, Lalkhan Bazar, Chattogram
+9, GEC Circle, GEC, Chattogram
+26, 2no Gate Road, 2no Gate, Chattogram
+43, Nasirabad Road, Nasirabad, Chattogram
+58, Bayezid Bostami Road, Bayezid Bostami, Chattogram
+11, Oxygen Road, Oxygen, Chattogram
+35, AK Khan Lane, AK Khan, Chattogram
+49, Citygate Avenue, Citygate, Chattogram
+20, Jubilee Road, New Market, Chattogram
+37, Station Road, Tigerpass, Chattogram
+55, Lalkhan Bazar Road, Lalkhan Bazar, Chattogram
+7, GEC Circle, GEC, Chattogram
+24, 2no Gate Road, 2no Gate, Chattogram
+40, Nasirabad Road, Nasirabad, Chattogram
+62, Bayezid Bostami Road, Bayezid Bostami, Chattogram
+14, Oxygen Road, Oxygen, Chattogram
+30, AK Khan Lane, AK Khan, Chattogram
+46, Citygate Avenue, Citygate, Chattogram
+17, Jubilee Road, New Market, Chattogram
+34, Station Road, Tigerpass, Chattogram
+52, Lalkhan Bazar Road, Lalkhan Bazar, Chattogram
+5, GEC Circle, GEC, Chattogram
+34, Main Road, Mirpur, Dhaka
+12, Shaheed Minar Road, Sadarghat, Chittagong
+56, Green Avenue, Uttara, Dhaka
+19, Station Road, Sylhet Sadar, Sylhet
+72, Court Road, Rajshahi Sadar, Rajshahi
+27, Gulshan Avenue, Gulshan, Dhaka
+45, Shaheed Zia Road, Khulna Sadar, Khulna
+8, Jubilee Road, Chawkbazar, Chittagong
+63, Nasirabad Housing Society, Chattogram
+21, Dhaka-Chittagong Highway, Comilla Sadar, Comilla
+48, New Market Road, Baitul Mukarram, Dhaka
+10, Main Road, Barisal Sadar, Barisal
+32, Shaheed Minar Road, Faridpur
+56, Green Avenue, Uttara, Dhaka
+19, Station Road, Sylhet Sadar, Sylhet
+72, Court Road, Rajshahi Sadar, Rajshahi
+27, Gulshan sadar, dhaka
